@@ -10,4 +10,4 @@
 
 ### Python functionals
 
-- [Map and Lambda Function]()
+- [Map and Lambda Function](python_functionals/map_and_lambda_function.py)
