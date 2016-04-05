@@ -5,4 +5,4 @@ PRs to add your ideas and opinions.
 
 Contents:
 
-- [Python submissions](/python)
+- [Python submissions](python/)
