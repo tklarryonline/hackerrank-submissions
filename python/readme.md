@@ -12,6 +12,10 @@
 
 - [Find the Second Largest Number](data_types/find_second_largest_num.py)
 
+### Strings
+
+- [The Minion Game](strings/the_minion_game.py)
+
 ### Python functionals
 
 - [Map and Lambda Function](python_functionals/map_and_lambda_function.py)
